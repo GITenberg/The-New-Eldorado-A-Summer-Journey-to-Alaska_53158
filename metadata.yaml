@@ -1,0 +1,32 @@
+_repo: The-New-Eldorado-A-Summer-Journey-to-Alaska_53158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Ballou, M. M. (Maturin Murray)
+    - Ballou, Maturin M. (Maturin Murray)
+    - Forester, Frank
+    - Murray, Lieutenant
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_issued: '2016-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53158'
+  lccn: '01015661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Alaska -- Description and travel'
+- !lcsh 'West (U.S.) -- Description and travel'
+- GITenberg
+title: 'The New Eldorado: A Summer Journey to Alaska'
+url: http://www.gutenberg.org/ebooks/53158
