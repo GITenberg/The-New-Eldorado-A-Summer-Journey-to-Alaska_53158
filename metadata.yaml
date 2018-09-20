@@ -1,5 +1,8 @@
 _repo: The-New-Eldorado-A-Summer-Journey-to-Alaska_53158
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53158-h/images/cover.jpg
 creator:
   author:
     agent_name: Ballou, Maturin Murray
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1543
     wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53158#The-New-Eldorado-A-Summer-Journey-to-Alaska
 gutenberg_issued: '2016-09-28'
 gutenberg_type: Text
 identifiers:
